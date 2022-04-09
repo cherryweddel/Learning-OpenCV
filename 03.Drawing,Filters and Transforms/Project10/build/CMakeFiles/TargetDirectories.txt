@@ -1,0 +1,3 @@
+/home/cherry/桌面/Study/OpenCV/Project10/build/CMakeFiles/rebuild_cache.dir
+/home/cherry/桌面/Study/OpenCV/Project10/build/CMakeFiles/PROJECT10.dir
+/home/cherry/桌面/Study/OpenCV/Project10/build/CMakeFiles/edit_cache.dir
